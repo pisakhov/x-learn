@@ -1,0 +1,10 @@
+{
+  "name": "x-learn",
+  "version": "0.1.0",
+  "private": true,
+  "description": "One contextual learning question inside your AI harness.",
+  "type": "module",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": { "test": "node --test", "demo": "node examples/demo.mjs" },
+  "license": "MIT"
+}
